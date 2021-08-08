@@ -1,6 +1,6 @@
-package app.projetaria.abstract_factory;
+package app.projetaria.abstract_factory.factory;
 
-import app.projetaria.models.Veiculo;
+import app.projetaria.abstract_factory.models.Veiculo;
 
 public abstract class VeiculoFactory {
 

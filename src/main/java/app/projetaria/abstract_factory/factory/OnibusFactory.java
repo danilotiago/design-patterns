@@ -1,8 +1,8 @@
-package app.projetaria.abstract_factory;
+package app.projetaria.abstract_factory.factory;
 
-import app.projetaria.models.OnibusGrande;
-import app.projetaria.models.OnibusPequeno;
-import app.projetaria.models.Veiculo;
+import app.projetaria.abstract_factory.models.OnibusGrande;
+import app.projetaria.abstract_factory.models.OnibusPequeno;
+import app.projetaria.abstract_factory.models.Veiculo;
 
 public class OnibusFactory extends VeiculoFactory {
 

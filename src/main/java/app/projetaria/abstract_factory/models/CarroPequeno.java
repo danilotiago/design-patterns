@@ -1,6 +1,6 @@
-package app.projetaria.models;
+package app.projetaria.abstract_factory.models;
 
-import app.projetaria.abstract_factory.RegularizacaoAbstractFactory;
+import app.projetaria.abstract_factory.factory.RegularizacaoAbstractFactory;
 
 public class CarroPequeno extends Veiculo {
 

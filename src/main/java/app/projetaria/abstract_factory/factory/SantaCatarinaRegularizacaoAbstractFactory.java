@@ -1,9 +1,9 @@
-package app.projetaria.abstract_factory;
+package app.projetaria.abstract_factory.factory;
 
-import app.projetaria.models.Emplacamento;
-import app.projetaria.models.Licenciamento;
-import app.projetaria.models.SantaCatarinaEmplacamento;
-import app.projetaria.models.SantaCatarinaLicenciamento;
+import app.projetaria.abstract_factory.models.Emplacamento;
+import app.projetaria.abstract_factory.models.Licenciamento;
+import app.projetaria.abstract_factory.models.SantaCatarinaEmplacamento;
+import app.projetaria.abstract_factory.models.SantaCatarinaLicenciamento;
 
 public class SantaCatarinaRegularizacaoAbstractFactory implements RegularizacaoAbstractFactory {
 

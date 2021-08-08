@@ -1,4 +1,4 @@
-package app.projetaria.models;
+package app.projetaria.abstract_factory.models;
 
 public class SantaCatarinaLicenciamento implements Licenciamento {
 
